@@ -7,7 +7,6 @@
 	},
 	"extensions": [
 		"platformio.platformio-ide",
-		"ms-vscode.cpptools",
 		"github.vscode-pull-request-github"
 	],
 	"forwardPorts": [
